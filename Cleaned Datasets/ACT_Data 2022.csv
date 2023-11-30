@@ -1,0 +1,201 @@
+SchoolYear,DistrictID,LEA,LEA Number,School,School Number,CompositeSchoolID,Avg. Composite Score,Avg. English Score,Avg. Reading Score,Avg. Math Score,Avg. Science Score,Percent With 18 or Higher Composite Score Masked
+2022,122,Alpine District,1,American Fork High,704,122180704,20.7,19.8,22,19.7,20.7,70.2%
+2022,122,Alpine District,1,Lehi High,708,122181708,19.7,17.6,21,19.6,20,62.5%
+2022,122,Alpine District,1,Lone Peak High,709,122182709,22,21.8,23.2,20.8,21.6,79.5%
+2022,122,Alpine District,1,Mountain View High,711,122183711,18.5,17,19.8,17.8,18.8,49.1%
+2022,122,Alpine District,1,Orem High,712,122184712,19.2,17.6,20.4,18.9,19.4,56.4%
+2022,122,Alpine District,1,Pleasant Grove High,716,122185716,19.9,18.2,21.3,19.7,19.8,62.8%
+2022,122,Alpine District,1,Timpanogos High,718,122186718,20.5,18.5,22.5,19.9,20.7,63.8%
+2022,122,Alpine District,1,Cedar Valley High,721,122186536721,19,17.2,20.7,18.3,19.4,56.8%
+2022,122,Alpine District,1,Summit High,730,122188730,15.1,14.1,16.5,14.1,15.4,20 to 29%
+2022,122,Alpine District,1,Polaris High School,782,122186292782,15.8,13.6,17.2,16,16.2,25.0%
+2022,122,Alpine District,1,Skyridge High School,785,122186426785,21.1,19.6,22.3,20.6,21.2,73.5%
+2022,122,Alpine District,1,Westlake High,789,122186032789,20.3,18.2,21.7,20.2,20.4,65.4%
+2022,197,Beaver District,2,Beaver High,704,197202704,18,16.3,18.6,18.5,17.9,50.0%
+2022,197,Beaver District,2,Milford High,708,197203708,16.3,14.8,16.5,16.4,16.8,20 to 29%
+2022,205,Box Elder District,3,Bear River High,704,205235704,19.3,18.1,20.2,19.1,19.5,60.2%
+2022,205,Box Elder District,3,Box Elder High,708,205236708,20.1,19,20.9,19.2,20.6,67.8%
+2022,205,Box Elder District,3,Sunrise High School,778,205240778,15.6,15.3,16.9,14.6,15.2,30 to 39%
+2022,243,Cache District,4,Mountain Crest High,702,243270702,20,18.5,21,20.2,19.9,66.6%
+2022,243,Cache District,4,Green Canyon High School,703,243186473703,20.2,18.5,21.8,19.7,20.4,65.7%
+2022,243,Cache District,4,Ridgeline High School,705,243186436705,21.1,19.2,22.3,21.4,20.8,72.6%
+2022,243,Cache District,4,Sky View High,706,243271706,20.2,18.2,21.8,19.6,20.7,65.4%
+2022,243,Cache District,4,Cache High,710,243272710,15.6,14.3,16.6,15.4,15.8,27.8%
+2022,279,Carbon District,5,Carbon High,704,279293704,18.5,17.5,19.3,17.7,19,51.5%
+2022,300,Daggett District,6,Manila High,704,300306704,19.4,19.1,20.1,18.7,18.8,50 to 59%
+2022,308,Davis District,7,Bountiful High,704,308390704,21.2,20.3,22.5,20.7,20.9,72.2%
+2022,308,Davis District,7,Clearfield High,706,308391706,19.3,17.9,20.4,18.8,19.5,59.0%
+2022,308,Davis District,7,Davis High,708,308392708,22.1,21.1,22.8,22.2,21.6,76.6%
+2022,308,Davis District,7,Farmington High,709,308186535709,22.4,21.5,23.7,21.6,22.3,81.4%
+2022,308,Davis District,7,Layton High,710,308393710,19.6,18,20.8,19.1,20,63.4%
+2022,308,Davis District,7,Northridge High,711,308394711,19.4,17.9,20.8,19.1,19.5,59.2%
+2022,308,Davis District,7,Viewmont High,712,308395712,21.9,21.1,23.4,21.1,21.5,75.1%
+2022,308,Davis District,7,Woods Cross High,714,308396714,21,19.7,21.8,21.4,20.7,64.7%
+2022,308,Davis District,7,Syracuse High,716,308185844716,19.9,18.7,21.3,19.2,19.8,63.9%
+2022,308,Davis District,7,Mountain High,730,308400730,16,14.1,18.5,15.8,15.5,29.5%
+2022,308,Davis District,7,Renaissance Academy,733,308403733,13,9.3,14.3,14.3,13,N < 10
+2022,308,Davis District,7,Davis Connect 7-12,835,308186611835,18.8,17.6,21,16.8,18.9,50 to 59%
+2022,422,Duchesne District,8,Altamont High,704,422434704,19,16.8,19.6,19,20,40 to 49%
+2022,422,Duchesne District,8,Duchesne High,708,422435708,17.2,15.8,17.8,17,17.7,38.1%
+2022,422,Duchesne District,8,Tabiona High,712,422436712,19.5,17.4,20.7,18.5,20.3,40 to 49%
+2022,422,Duchesne District,8,Union High,714,422437714,18.1,15.7,19.3,18.3,18.3,48.1%
+2022,422,Duchesne District,8,Basin Online School,800,422186640800,16.6,15.6,18.8,16.1,15.4,30 to 39%
+2022,442,Emery District,9,Green River High,704,442453704,16.1,14.1,16.8,16.6,16.4,N < 10
+2022,442,Emery District,9,Emery High,706,442454706,18.4,17.3,18.3,18.8,18.9,54.5%
+2022,456,Garfield District,10,Bryce Valley High,704,456464704,18.8,17.6,18.3,19.9,18.9,60 to 69%
+2022,456,Garfield District,10,Escalante High,708,456465708,22.3,20.7,26.7,20.9,20.4,N < 10
+2022,456,Garfield District,10,Panguitch High,712,456466712,16.2,13.6,16.4,17.4,16.7,31.7%
+2022,468,Grand District,11,Grand County High,704,468473704,18.5,17,20.2,17.8,18.7,48.4%
+2022,480,Granite District,12,Youth Educational Support School,501,480186180501,13,11.5,13,14,12,N < 10
+2022,480,Granite District,12,Cottonwood High,702,480598702,18,17.2,18.3,17.6,18.3,48.0%
+2022,480,Granite District,12,Cyprus High,704,480599704,17.2,16.1,17.7,16.8,17.9,41.7%
+2022,480,Granite District,12,Granger High,708,480600708,16,15,16.3,15.7,16.4,29.8%
+2022,480,Granite District,12,Hunter High,710,480601710,16.8,15.2,17.2,16.8,17.5,36.3%
+2022,480,Granite District,12,Kearns High,714,480603714,16.7,15.5,17.3,15.9,17.6,34.4%
+2022,480,Granite District,12,Olympus High,716,480604716,21.8,20.7,23.4,20.8,21.9,79.0%
+2022,480,Granite District,12,Skyline High,718,480605718,23.3,23,23.9,22.6,23.2,85.2%
+2022,480,Granite District,12,Taylorsville High,722,480606722,18.4,17.5,18.9,17.8,18.7,49.7%
+2022,480,Granite District,12,Granite Connection High,740,480608740,13.9,12,14.8,14.1,14.4,13.3%
+2022,635,Iron District,13,Cedar City High,704,635649704,19.9,19.1,20.5,19.3,20.1,69.5%
+2022,635,Iron District,13,Parowan High,708,635650708,19,18,19.3,18.5,19.7,63.6%
+2022,635,Iron District,13,Canyon View High,712,635651712,19.2,18.5,19.7,18.9,19.4,59.3%
+2022,635,Iron District,13,Launch High,716,635186602716,22.3,21.8,23.6,20.9,22,80 to 89%
+2022,635,Iron District,13,Southwest Educational Academy,750,635652750,16.4,15.6,16.8,16.2,16.7,30 to 39%
+2022,653,Jordan District,14,Copper Hills High,703,653734703,19.9,19.5,21,18.7,20.1,64.3%
+2022,653,Jordan District,14,Bingham High,704,653735704,20.9,20.4,21.4,20.3,21,73.0%
+2022,653,Jordan District,14,Herriman High,707,653186149707,20.1,18.9,21.6,19.1,20.2,63.4%
+2022,653,Jordan District,14,Riverton High,710,653739710,20.3,19.2,21.6,19.7,20.1,67.7%
+2022,653,Jordan District,14,Mountain Ridge High ,715,653186498715,19.9,19.1,21.3,19,20,65.2%
+2022,653,Jordan District,14,Valley High School,716,653741716,16.1,13.8,17.8,16,16.5,29.5%
+2022,653,Jordan District,14,West Jordan High,718,653742718,17.9,16.1,19.5,17.3,18.3,46.9%
+2022,653,Jordan District,14,Kings Peak High,790,653186637790,16.8,15.1,18.1,16.2,17,33.9%
+2022,765,Juab District,15,Juab High,704,765770704,19,17.7,20.1,18.6,19,57.4%
+2022,772,Kane District,16,Kanab High,704,772779704,19.1,18.5,18.9,19.5,18.9,53.2%
+2022,772,Kane District,16,Lake Powell High School,714,772777714,13,12,12,13,15,N < 10
+2022,783,Millard District,17,Delta High,704,783790704,18.8,18,19.5,18.3,19.3,57.9%
+2022,783,Millard District,17,Millard High,708,783791708,19.6,18.5,20.3,19.6,19.6,56.0%
+2022,783,Millard District,17,Eskdale High,712,78335536712,18.3,17.8,19.3,17.5,17.8,N < 10
+2022,795,Morgan District,18,Morgan High,704,795799704,20.6,20.3,21.7,20.2,20,69.1%
+2022,800,Nebo District,19,Maple Mountain High,702,800185825702,21.4,20.8,21.8,21,21.4,74.3%
+2022,800,Nebo District,19,Payson High,704,800827704,18.2,17.4,18.7,17.6,18.7,52.6%
+2022,800,Nebo District,19,Salem Hills High,706,800185824706,19.6,19,20.4,19,19.5,64.6%
+2022,800,Nebo District,19,Spanish Fork High,708,800828708,19.4,18.6,19.9,19.2,19.2,60.3%
+2022,800,Nebo District,19,Springville High,712,800829712,20.5,20.2,21.2,20,20.2,68.4%
+2022,800,Nebo District,19,Landmark High,720,800832720,15.7,14.4,15.9,15,16.8,29.6%
+2022,800,Nebo District,19,Nebo Advanced Learning Center,747,800186281747,22.3,23.4,23.7,19.2,22.8,N < 10
+2022,160607,Utah County Academy of Science,1B,Utah County Academy of Science,700,160607160607700,24.5,24.2,25.2,24.3,24.1,93.0%
+2022,186295,Utah International Charter School,1I,Utah International Charter School,700,186295186297700,12.7,11,12.7,13.1,13.5,< 5%
+2022,186380,Vanguard Academy,1K,Vanguard Academy,700,186380186381700,18.4,17,17.5,20.5,18.1,47.9%
+2022,837,North Sanpete District,20,North Sanpete High,704,837846704,19.2,18,19.5,19.3,19.8,56.9%
+2022,837,North Sanpete District,20,Pleasant Creek High School,801,837186282801,14.6,12.9,14.4,15.6,15,< 20%
+2022,849,North Summit District,21,North Summit High,704,849854704,21,19.9,20.8,21.6,21,68.7%
+2022,856,Park City District,22,Park City High,704,856863704,22.5,21.6,23.7,21.5,22.8,77.7%
+2022,865,Piute District,23,Piute High,708,865869708,18.7,17.3,20,18.4,18.7,50 to 59%
+2022,870,Rich District,24,Rich High,708,870878708,20.3,19,21.6,19.7,20.5,70 to 79%
+2022,880,San Juan District,25,Monticello High,704,880892704,21.3,21.4,21.7,20.4,21.4,70 to 79%
+2022,880,San Juan District,25,Monument Valley High,706,880893706,12.8,10.7,12.1,14.1,13.9,< 10%
+2022,880,San Juan District,25,San Juan High,708,880894708,17.6,16.2,18.5,17.4,18.1,44.0%
+2022,880,San Juan District,25,Whitehorse High,710,880895710,15.5,13.2,15.5,16,16.3,20 to 29%
+2022,880,San Juan District,25,Navajo Mountain High,712,880896712,14.5,12.9,14.8,15,15.1,N < 10
+2022,900,Sevier District,26,North Sevier High,704,900912704,18.6,17.9,18.3,18.4,19.2,55.7%
+2022,900,Sevier District,26,Richfield High,708,900913708,19,17.9,18.6,20,19.1,53.8%
+2022,900,Sevier District,26,South Sevier High,712,900914712,19.1,18.7,19.2,18.6,19.5,55.9%
+2022,900,Sevier District,26,Cedar Ridge High,716,900915716,14.7,14.2,14.5,14.5,14.5,< 20%
+2022,921,South Sanpete District,27,Gunnison Valley High,704,921928704,18.5,18.1,18.3,18.4,18.7,49.4%
+2022,921,South Sanpete District,27,Manti High,708,921929708,18.9,17.6,19.8,19.3,18.4,57.0%
+2022,921,South Sanpete District,27,South Sanpete Education Support Center,801,921186255801,15.5,14.5,16,16,15.5,N < 10
+2022,930,South Summit District,28,South Summit High,704,930937704,19.6,18.8,20,19.1,20.1,55.0%
+2022,930,South Summit District,28,Silver Summit Academy,705,930186522705,20.8,19.4,20.1,20.8,22,70 to 79%
+2022,940,Tintic District,29,Tintic High,704,940945704,19.4,18,19.8,19.6,20.3,60 to 69%
+2022,940,Tintic District,29,West Desert High School,708,940943708,21.7,20.3,23.7,20.3,21.3,N < 10
+2022,185804,InTech Collegiate Academy,2C,Intech Collegiate Academy,600,185804185804600,24.9,23.9,25.5,24.4,25.4,>= 90%
+2022,185835,Karl G. Maeser Preparatory Academy,2E,Karl G. Maeser Preparatory Academy,700,185835185835700,23.3,22.8,23.8,23.9,22.5,79.2%
+2022,185873,Rockwell Charter High School,2F,Rockwell Charter High School,700,185873185873700,16.3,14.2,17.6,16.3,17,20 to 29%
+2022,186182,Utah Connections Academy,2H,Utah Connections Academy,101,186182186182101,17.7,16.4,18.8,17.1,18.2,52.5%
+2022,186369,Utah Military Academy,2K,Utah Military Academy,700,186369186370700,18.7,18.2,19.5,17.7,19,55.2%
+2022,186369,Utah Military Academy,2K,Utah Military Academy - Camp Williams,710,186369186446710,18.7,17.5,19.3,18.5,19,49.0%
+2022,947,Tooele District,30,Grantsville High,708,947964708,18.4,16.3,19.1,18.9,18.7,50.5%
+2022,947,Tooele District,30,Tooele High,712,947965712,18.4,17.3,19.4,17.8,18.6,52.6%
+2022,947,Tooele District,30,Wendover High,714,947966714,15.6,13.7,16.7,15.3,16.3,20 to 29%
+2022,947,Tooele District,30,Stansbury High,720,947185832720,19.9,18.9,21.3,18.8,20.1,63.4%
+2022,947,Tooele District,30,Digital Education Center,735,947186633735,20,18.8,22.6,18.3,19.7,63.4%
+2022,947,Tooele District,30,Blue Peak High,740,947967740,14.5,13.3,15.5,13.8,14.9,20 to 29%
+2022,972,Uintah District,31,Uintah High,704,972988704,18.4,17.3,18.9,17.8,19.1,53.0%
+2022,972,Uintah District,31,Ashley Valley Educ. Ctr.,750,972989750,17,15.1,17.8,15.9,18.5,40 to 49%
+2022,992,Wasatch District,32,Wasatch High,704,9921000704,20.5,20.1,20.5,20.4,20.6,66.2%
+2022,1002,Washington District,33,Utah Online 7-12,500,1002186268500,20.3,20,21.2,19,20.6,60 to 69%
+2022,1002,Washington District,33,Water Canyon High,518,1002186488518,18.5,17.1,19.3,18.3,19,62.2%
+2022,1002,Washington District,33,Desert Hills High,703,1002186047703,21.2,20.5,21.4,21.1,21.3,75.0%
+2022,1002,Washington District,33,Dixie High,704,10021032704,19.3,18.4,19.5,18.8,19.9,60.3%
+2022,1002,Washington District,33,Crimson Cliffs High,705,1002186592705,20.8,20,21,20.8,20.7,71.8%
+2022,1002,Washington District,33,Enterprise High,712,10021033712,18.1,17.3,18.2,18.6,17.9,47.8%
+2022,1002,Washington District,33,Hurricane High,716,10021025716,19.9,19,20,19.7,20.4,61.7%
+2022,1002,Washington District,33,Millcreek High,718,10021035718,16.2,15.5,16.9,15.5,16.3,30 to 39%
+2022,1002,Washington District,33,Pine View High,720,10021036720,19,18,19.1,18.9,19.5,54.6%
+2022,1002,Washington District,33,Snow Canyon High,725,10021037725,19.9,19.2,20.3,19.5,20.2,63.9%
+2022,1042,Wayne District,34,Wayne High,704,10421047704,17.2,16.2,17.5,17.1,17.6,40 to 49%
+2022,1050,Weber District,35,Bonneville High,701,10501093701,18,16.6,19.6,17.5,17.6,47.6%
+2022,1050,Weber District,35,Weber High,704,10501094704,20.1,18.9,21.3,19.8,20.1,63.8%
+2022,1050,Weber District,35,Fremont High,706,10501095706,18.5,16.2,19.9,18.7,18.7,52.3%
+2022,1050,Weber District,35,Roy High,708,10501096708,18.1,16.9,19.1,17.9,18.1,46.6%
+2022,1050,Weber District,35,Weber Innovation High School,725,1050186417725,22.3,19.8,24.6,21.9,22.1,89.7%
+2022,1050,Weber District,35,Two Rivers High,730,10501070730,14.6,12,14.7,15.1,15.5,18.0%
+2022,1107,Salt Lake District,36,East High,704,11071154704,18.9,17.9,19.4,18.4,19.4,56.0%
+2022,1107,Salt Lake District,36,Highland High,708,11071155708,20.5,19.9,21.1,19.8,20.7,63.5%
+2022,1107,Salt Lake District,36,West High,716,11071157716,19.7,19,20.3,18.8,20,53.0%
+2022,1107,Salt Lake District,36,Innovations High School,748,1107186280748,18.1,17.5,18.9,17.1,18.7,50.7%
+2022,1107,Salt Lake District,36,Horizonte Instruction & Training Center,750,11071161750,13.2,11.4,13.9,12.7,14.1,5.7%
+2022,1183,Ogden City District,37,Ben Lomond High,703,11831208703,16.2,14.4,17.1,16.1,16.8,32.9%
+2022,1183,Ogden City District,37,Ogden High,707,11831209707,17.9,16.7,18.2,17.8,18.2,43.3%
+2022,1183,Ogden City District,37,George Washington High,729,11831210729,14.4,13.3,14.5,14.2,15,10 to 19%
+2022,1183,Ogden City District,37,Malan's Peak Secondary,731,1183186547731,13.6,13.4,13.9,13.5,13.7,< 20%
+2022,1222,Provo District,38,Oak Springs School,560,12221243560,16.8,15.5,17.3,17.3,17,N < 10
+2022,1222,Provo District,38,Provo High,704,12221248704,19,18.3,19.8,18.1,19.4,58.5%
+2022,1222,Provo District,38,Timpview High,712,12221249712,21.9,21.3,22.6,21.2,21.8,74.2%
+2022,1222,Provo District,38,Independence High,730,12221250730,14.8,13.6,15.6,14.3,15.6,20 to 29%
+2022,1261,Logan City District,39,Logan High,704,12611272704,19.5,18.1,21.1,18.4,19.7,57.5%
+2022,165610,Beehive Science & Technology Academy,3B,Beehive Science & Technology Academy,700,165610165610700,21,20.4,21.4,22.2,19.7,70 to 79%
+2022,185698,Spectrum Academy,3D,Spectrum Academy - NSL,100,185698185698100,17.6,16.7,18,16.9,18.1,36.7%
+2022,185874,Venture Academy,3F,Venture Academy,100,185874185874100,18.6,17.5,19.7,17.9,18.7,54.9%
+2022,186374,Roots Charter High School,3K,Roots Charter High School,700,186374186375700,13.9,12.6,13.2,14.6,14.6,10 to 19%
+2022,186459,Leadership Academy of Utah,3L,Leadership Academy of Utah,700,186459186460700,21.5,21.9,22.6,19.3,21.7,80 to 89%
+2022,1275,Murray District,40,Murray High,704,12751289704,19.7,18.9,20.2,19.3,20.1,61.9%
+2022,1296,Utah Schools for Deaf & Blind,41,Kenneth Burdett School,121,1296185675121,13,9.5,13.3,14.3,14.3,N < 10
+2022,1296,Utah Schools for Deaf & Blind,41,Jean Massieu School for the Deaf,421,12965491421,12.5,11,13,14,12,N < 10
+2022,186056,Canyons District,42,Alta High,702,186056733702,20.8,19.7,22.3,19.9,20.8,68.6%
+2022,186056,Canyons District,42,Brighton High,705,186056736705,21.2,19.6,23,20.4,21.3,72.6%
+2022,186056,Canyons District,42,Hillcrest High,706,186056737706,20,18.3,21.6,19.3,20.3,59.2%
+2022,186056,Canyons District,42,Corner Canyon High,711,186056186286711,22,20.3,23.3,21.7,22.3,77.2%
+2022,186056,Canyons District,42,Diamond Ridge High School,750,186056186438750,15.7,13.9,17.2,15.2,16.4,20 to 29%
+2022,185868,Salt Lake Center for Science Education,4F,Salt Lake Center for Science Education,300,185868185868300,19.7,18.4,20.2,19.1,20.7,58.2%
+2022,186302,Mana Academy Charter School,4I,Mana Academy Charter School,700,186302186303700,15.8,14.2,16.5,15.1,16.8,30 to 39%
+2022,186387,Athenian eAcademy,4K,Athenian eAcademy,300,186387186388300,16.9,16.1,18.8,15.1,17.3,50 to 59%
+2022,186006,Utah Virtual Academy,5F,Utah Virtual Academy,700,186006186006700,18.8,17.9,20.2,17.3,19.4,57.1%
+2022,110573,American Preparatory Academy,74,American Preparatory Academy - Draper #3,700,110573186376700,22.1,22,22.1,21.4,22.3,75.5%
+2022,185696,Salt Lake School for the Performing Arts,7D,Salt Lake School for the Performing Arts,700,185696185696700,20.5,20.3,22.4,18.3,20.7,67.9%
+2022,186170,Summit Academy High School,7G,Summit Academy High School,700,186170186170700,21.1,21.1,21.5,20.1,21.2,73.5%
+2022,125582,Walden School of Liberal Arts,81,Walden School of Liberal Arts,300,125582125582300,19.4,19,21.6,16.9,19.7,60 to 69%
+2022,110574,Freedom Preparatory Academy,82,Freedom Preparatory Academy,100,110574110574100,20.3,19.8,21.5,19.2,20.2,57.8%
+2022,110575,Academy for Math Engineering & Science,83,Academy for Math Engineering & Science,700,110575110575700,24.1,23.3,23.9,24.5,24.1,86.7%
+2022,5492,Pinnacle Canyon Academy,86,Pinnacle Canyon Academy,100,54925492100,16,14.3,17.4,15.2,16.6,30 to 39%
+2022,10527,City Academy,87,City Academy,700,1052710527700,19.5,19.3,20.3,18.8,19.3,60 to 69%
+2022,165615,American Leadership Academy,8B,American Leadership Academy,100,165615165615100,18.8,17.8,19,19.2,18.9,60.6%
+2022,185870,Merit College Preparatory Academy,8E,Merit College Preparatory Academy,700,185870185870700,19.2,18.4,20.4,18.1,19.1,57.7%
+2022,186311,Winter Sports School,8I,Winter Sports School,700,186311186313700,20.6,18.8,20.3,20.9,21.2,70 to 79%
+2022,186372,Terra Academy,8J,Terra Academy,300,186372186373300,20.5,19.7,21.4,19.4,20.5,73.8%
+2022,5496,Utah Arts Academy OLD,90,Utah Arts Academy OLD,700,54965496700,19.8,21.4,20.8,17.6,19.2,67.2%
+2022,5497,Uintah River High,92,Uintah River High,700,54975497700,13.4,11.2,12.3,14.7,14.8,< 20%
+2022,60560,Fast Forward High,98,Fast Forward High,700,6056060560700,16,14,16.9,15.7,16.7,26.2%
+2022,185692,Paradigm High School,9C,Paradigm High School,700,185692185692700,20.5,20.4,22,18.2,20.9,69.4%
+2022,185871,Providence Hall,9E,Providence Hall,100,185871185871100,19.3,18,20.6,18.8,19.2,59.6%
+2022,186113,Mountain Heights Academy,9F,Mountain Heights Academy,600,186113186113600,19.8,19.9,20.4,18.2,20,64.9%
+2022,186342,Utah Career Path High School,9I,Utah Career Path High School,600,186342186343600,19.1,17.3,21.8,17.8,19.1,56.5%
+2022,186385,Lumen Scholar Institute,9J,Lumen Scholar Institute,300,186385186386300,21.6,21.6,23.3,19.8,21,80 to 89%
+2022,186431,St. George Academy,9K,St. George Academy,700,186431186432700,20.5,18.3,22.2,19.5,21.2,70.6%
+2022,125576,No. UT. Acad. for Math Engineering & Science,A1,No. UT. Acad. for Math Engineering & Science,700,125576125576700,24.4,24.4,24.6,24,23.7,92.0%
+2022,125576,No. UT. Acad. for Math Engineering & Science,A1,No. UT. Acad. of Math Engineering & Science Ogden,705,125576186503705,22.9,22.9,22.9,22.6,22.5,81.3%
+2022,125578,Davinci Academy,A3,Davinci Academy,700,125578125578700,19.3,18.5,20.8,17.8,19.6,52.9%
+2022,125580,Itineris Early College High,A5,Itineris Early College High,700,125580125580700,22.4,21.8,23.4,21.6,22.4,78.6%
+2022,135601,East Hollywood High,A8,East Hollywood High,700,135601135601700,16,14.8,17,15,16.4,26.9%
+2022,165608,Success Academy,A9,Success SUU,700,165608165608700,24.2,22.6,24.4,25.1,24.2,>= 90%
+2022,165608,Success Academy,A9,Success DSU,710,165608186389710,23.9,22.5,23.8,24.1,24.4,92.4%
