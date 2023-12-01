@@ -1,0 +1,375 @@
+SchoolYear,DistrictID,CompositeSchoolID,LocalEducationAgency,School,LEAType,ClassSize
+2022,122,122168404,Alpine District,American Fork Jr High,District,36.33757961783439
+2022,122,122169405,Alpine District,Canyon View Jr High,District,31.85981308411215
+2022,122,122170406,Alpine District,Lakeridge Jr High,District,35.123893805309734
+2022,122,122171408,Alpine District,Lehi Jr High,District,30.322916666666668
+2022,122,122172410,Alpine District,Mountain Ridge Jr High,District,31.923076923076923
+2022,122,122173412,Alpine District,Oak Canyon Jr High,District,32.296
+2022,122,122174414,Alpine District,Orem Jr High,District,30.693069306930692
+2022,122,122175416,Alpine District,Pleasant Grove Jr High,District,30.547619047619047
+2022,122,122180704,Alpine District,American Fork High,District,29.131386861313867
+2022,122,122181708,Alpine District,Lehi High,District,29.460176991150444
+2022,122,122182709,Alpine District,Lone Peak High,District,28.137931034482758
+2022,122,122183711,Alpine District,Mountain View High,District,30.930232558139537
+2022,122,122184712,Alpine District,Orem High,District,29.771428571428572
+2022,122,122185716,Alpine District,Pleasant Grove High,District,29.2109375
+2022,122,122186718,Alpine District,Timpanogos High,District,25.670454545454547
+2022,122,12265563420,Alpine District,Timberline Middle,District,33.125
+2022,122,122130582425,Alpine District,Willowcreek Middle,District,35.280575539568346
+2022,122,122186032789,Alpine District,Westlake High,District,27.972972972972972
+2022,122,122186162490,Alpine District,Vista Heights Middle,District,32.666666666666664
+2022,122,122186328417,Alpine District,Frontier Middle School,District,32.906474820143885
+2022,122,122186426785,Alpine District,Skyridge High School,District,29.693430656934307
+2022,122,122186536721,Alpine District,Cedar Valley High,District,31.91860465116279
+2022,122,122186577450,Alpine District,Lake Mountain Middle,District,32.773109243697476
+2022,122,122186634435,Alpine District,Viewpoint Middle,District,34.68055555555556
+2022,197,197201712,Beaver District,Minersville School,District,15.0
+2022,197,197202704,Beaver District,Beaver High,District,25.76086956521739
+2022,197,197203708,Beaver District,Milford High,District,18.285714285714285
+2022,205,205218710,Box Elder District,Grouse Creek Secondary,District,1.0
+2022,205,205226712,Box Elder District,Park Valley Secondary,District,4.0
+2022,205,205231304,Box Elder District,Harris Intermediate,District,27.886363636363637
+2022,205,205232308,Box Elder District,Young Intermediate,District,28.396551724137932
+2022,205,205233404,Box Elder District,Bear River Middle,District,27.471264367816094
+2022,205,205234408,Box Elder District,Box Elder Middle,District,30.784313725490197
+2022,205,205235704,Box Elder District,Bear River High,District,28.653061224489797
+2022,205,205236708,Box Elder District,Box Elder High,District,26.705882352941178
+2022,243,243262330,Cache District,Spring Creek Middle School,District,27.626262626262626
+2022,243,243265406,Cache District,North Cache Middle School,District,28.008333333333333
+2022,243,243267410,Cache District,South Cache Middle School,District,28.16393442622951
+2022,243,243270702,Cache District,Mountain Crest High,District,29.38235294117647
+2022,243,243271706,Cache District,Sky View High,District,30.295081967213115
+2022,243,243186436705,Cache District,Ridgeline High School,District,28.402298850574713
+2022,243,243186473703,Cache District,Green Canyon High School,District,29.5974025974026
+2022,279,279289408,Carbon District,Helper Middle,District,21.27777777777778
+2022,279,279290412,Carbon District,Mont Harmon Middle,District,23.84313725490196
+2022,279,279293704,Carbon District,Carbon High,District,25.973684210526315
+2022,300,300306704,Daggett District,Manila High,District,16.133333333333333
+2022,308,308359402,Davis District,Fairfield Jr High,District,32.258426966292134
+2022,308,308360404,Davis District,Bountiful Jr High,District,28.764705882352942
+2022,308,308361406,Davis District,Centerville Jr High,District,31.057471264367816
+2022,308,308362408,Davis District,Central Davis Jr High,District,28.875
+2022,308,308363409,Davis District,Farmington Jr High,District,32.62280701754386
+2022,308,308364410,Davis District,Kaysville Jr High,District,27.962264150943398
+2022,308,308365411,Davis District,Millcreek Jr High,District,30.690140845070424
+2022,308,308366412,Davis District,North Davis Jr High,District,26.727272727272727
+2022,308,308367413,Davis District,Mueller Park Jr High,District,30.754901960784313
+2022,308,308368414,Davis District,North Layton Jr High,District,30.494949494949495
+2022,308,308369416,Davis District,South Davis Jr High,District,31.275510204081634
+2022,308,308370418,Davis District,Sunset Jr High,District,32.44444444444444
+2022,308,308371420,Davis District,Syracuse Jr High,District,32.24390243902439
+2022,308,308390704,Davis District,Bountiful High,District,27.9
+2022,308,308391706,Davis District,Clearfield High,District,29.490909090909092
+2022,308,308392708,Davis District,Davis High,District,29.65740740740741
+2022,308,308393710,Davis District,Layton High,District,31.796296296296298
+2022,308,308394711,Davis District,Northridge High,District,29.536082474226806
+2022,308,308395712,Davis District,Viewmont High,District,29.91891891891892
+2022,308,308396714,Davis District,Woods Cross High,District,28.608695652173914
+2022,308,30865561422,Davis District,West Point Jr High,District,32.36
+2022,308,308185844716,Davis District,Syracuse High,District,30.755725190839694
+2022,308,308186116424,Davis District,Legacy Jr High,District,30.99047619047619
+2022,308,308186244426,Davis District,Centennial Jr High,District,34.06818181818182
+2022,308,308186535709,Davis District,Farmington High,District,30.50925925925926
+2022,308,308186571428,Davis District,Shoreline Junior High,District,34.888888888888886
+2022,422,422433404,Duchesne District,Roosevelt Jr High,District,29.55
+2022,422,422434704,Duchesne District,Altamont High,District,19.3
+2022,422,422435708,Duchesne District,Duchesne High,District,24.77777777777778
+2022,422,422436712,Duchesne District,Tabiona High,District,13.1875
+2022,422,422437714,Duchesne District,Union High,District,25.735632183908045
+2022,442,442451404,Emery District,Canyon View Middle School,District,23.823529411764707
+2022,442,442452408,Emery District,San Rafael Middle School,District,23.75
+2022,442,442453704,Emery District,Green River High,District,11.333333333333334
+2022,442,442454706,Emery District,Emery High,District,23.78125
+2022,456,456463304,Garfield District,Panguitch Middle,District,17.5
+2022,456,456464704,Garfield District,Bryce Valley High,District,18.166666666666668
+2022,456,456465708,Garfield District,Escalante High,District,11.117647058823529
+2022,456,456466712,Garfield District,Panguitch High,District,16.095238095238095
+2022,468,468472404,Grand District,Grand County Middle,District,23.033333333333335
+2022,468,468473704,Grand District,Grand County High,District,19.975609756097562
+2022,480,480552400,Granite District,Bennion Jr High,District,28.055555555555557
+2022,480,480553402,Granite District,Bonneville Jr High,District,25.043478260869566
+2022,480,480556410,Granite District,Churchill Jr High,District,24.14
+2022,480,480557411,Granite District,Eisenhower Jr High,District,26.523809523809526
+2022,480,480558412,Granite District,Evergreen Jr High,District,26.96078431372549
+2022,480,480559416,Granite District,Granite Park Jr High,District,25.41176470588235
+2022,480,480560418,Granite District,Hunter Jr High,District,25.152941176470588
+2022,480,480561419,Granite District,Thomas Jefferson Jr High,District,26.233766233766232
+2022,480,480562420,Granite District,Kearns Jr High,District,30.03921568627451
+2022,480,480563422,Granite District,John F. Kennedy Jr High,District,27.61038961038961
+2022,480,480564424,Granite District,Olympus Jr High,District,28.70909090909091
+2022,480,480565428,Granite District,Valley Jr High,District,29.985507246376812
+2022,480,480566432,Granite District,Wasatch Jr High,District,28.839285714285715
+2022,480,480567434,Granite District,West Lake Jr High,District,25.904761904761905
+2022,480,480598702,Granite District,Cottonwood High,District,27.26605504587156
+2022,480,480599704,Granite District,Cyprus High,District,29.12087912087912
+2022,480,480600708,Granite District,Granger High,District,31.744292237442924
+2022,480,480601710,Granite District,Hunter High,District,32.547770700636946
+2022,480,480603714,Granite District,Kearns High,District,51.02564102564103
+2022,480,480604716,Granite District,Olympus High,District,29.93661971830986
+2022,480,480605718,Granite District,Skyline High,District,31.690647482014388
+2022,480,480606722,Granite District,Taylorsville High,District,33.708333333333336
+2022,480,48050545423,Granite District,Scott M Matheson Jr High,District,28.514563106796118
+2022,635,635645304,Iron District,Cedar Middle,District,30.506849315068493
+2022,635,635649704,Iron District,Cedar City High,District,29.41304347826087
+2022,635,635650708,Iron District,Parowan High,District,18.51219512195122
+2022,635,635651712,Iron District,Canyon View High,District,24.032967032967033
+2022,635,635185811308,Iron District,Canyon View Middle,District,25.84931506849315
+2022,635,635186602716,Iron District,Launch High,District,43.77272727272727
+2022,653,653717406,Jordan District,Joel P. Jensen Middle,District,23.31313131313131
+2022,653,653720409,Jordan District,Oquirrh Hills Middle,District,28.55223880597015
+2022,653,653722411,Jordan District,South Jordan Middle,District,29.099236641221374
+2022,653,653723412,Jordan District,West Jordan Middle,District,29.844827586206897
+2022,653,653724413,Jordan District,Elk Ridge Middle,District,25.64516129032258
+2022,653,653725414,Jordan District,West Hills Middle,District,26.618705035971225
+2022,653,653726415,Jordan District,South Hills Middle,District,30.358695652173914
+2022,653,653734703,Jordan District,Copper Hills High,District,29.763313609467456
+2022,653,653735704,Jordan District,Bingham High,District,30.201342281879196
+2022,653,653739710,Jordan District,Riverton High,District,31.024793388429753
+2022,653,653742718,Jordan District,West Jordan High,District,30.634615384615383
+2022,653,653175615416,Jordan District,Sunset Ridge Middle,District,28.126582278481013
+2022,653,653175616417,Jordan District,Fort Herriman Middle,District,29.21476510067114
+2022,653,653186149707,Jordan District,Herriman High,District,29.82905982905983
+2022,653,653186326419,Jordan District,Copper Mountain Middle,District,29.47222222222222
+2022,653,653186498715,Jordan District,Mountain Ridge High,District,29.58273381294964
+2022,653,653186533421,Jordan District,Hidden Valley Middle,District,25.846153846153847
+2022,653,653186534422,Jordan District,Mountain Creek Middle School,District,28.625
+2022,765,765769304,Juab District,Juab Jr High,District,27.346938775510203
+2022,765,765770704,Juab District,Juab High,District,27.388059701492537
+2022,772,772774712,Kane District,Big Water High,District,13.0
+2022,772,772777714,Kane District,Lake Powell High School,District,1.0
+2022,772,772778310,Kane District,Kanab Middle,District,27.444444444444443
+2022,772,772779704,Kane District,Kanab High,District,20.0
+2022,772,772780708,Kane District,Valley High,District,22.0625
+2022,783,783789320,Millard District,Fillmore Middle,District,25.695652173913043
+2022,783,783790704,Millard District,Delta High,District,24.813953488372093
+2022,783,783791708,Millard District,Millard High,District,25.2
+2022,783,78335536712,Millard District,Eskdale High,District,5.6
+2022,783,783186132311,Millard District,Delta Middle,District,25.914285714285715
+2022,795,795798304,Morgan District,Morgan Middle,District,22.08108108108108
+2022,795,795799704,Morgan District,Morgan High,District,27.296703296703296
+2022,795,795186583305,Morgan District,Mountain Green Middle,District,25.4
+2022,800,800824408,Nebo District,Payson Jr High,District,31.682242990654206
+2022,800,800825420,Nebo District,Spanish Fork Jr High,District,27.114035087719298
+2022,800,800826424,Nebo District,Springville Jr High,District,28.30701754385965
+2022,800,800827704,Nebo District,Payson High,District,43.04225352112676
+2022,800,800828708,Nebo District,Spanish Fork High,District,35.022222222222226
+2022,800,800829712,Nebo District,Springville High,District,39.674418604651166
+2022,800,800185685404,Nebo District,Mapleton Junior High,District,30.017241379310345
+2022,800,800185824706,Nebo District,Salem Hills High,District,32.806451612903224
+2022,800,800185825702,Nebo District,Maple Mountain High,District,41.404761904761905
+2022,800,800186160416,Nebo District,Salem Junior High,District,40.666666666666664
+2022,800,800186281747,Nebo District,Nebo Advanced Learning Center,District,79.0
+2022,800,800186584345,Nebo District,Mt. Nebo Middle,District,28.61111111111111
+2022,800,800186585315,Nebo District,Diamond Fork Middle,District,26.681818181818183
+2022,800,800186586340,Nebo District,Maple Grove Middle,District,29.43548387096774
+2022,800,800186587360,Nebo District,Spring Canyon Middle,District,31.439393939393938
+2022,800,800186588380,Nebo District,Valley View Middle,District,30.288888888888888
+2022,837,837845404,North Sanpete District,North Sanpete Middle,District,24.54901960784314
+2022,837,837846704,North Sanpete District,North Sanpete High,District,27.98148148148148
+2022,849,849853304,North Summit District,North Summit Middle,District,23.695652173913043
+2022,849,849854704,North Summit District,North Summit High,District,17.53846153846154
+2022,856,856861304,Park City District,Treasure Mtn. Junior High School,District,24.580645161290324
+2022,856,856862308,Park City District,Ecker Hill Middle,District,23.73469387755102
+2022,856,856863704,Park City District,Park City High,District,24.03191489361702
+2022,865,865869708,Piute District,Piute High,District,15.75
+2022,870,870875304,Rich District,Rich Middle School,District,20.166666666666668
+2022,870,870878708,Rich District,Rich High,District,18.0
+2022,880,880889308,San Juan District,Albert R. Lyman Middle,District,18.774193548387096
+2022,880,880892704,San Juan District,Monticello High,District,16.8
+2022,880,880893706,San Juan District,Monument Valley High,District,14.419354838709678
+2022,880,880894708,San Juan District,San Juan High,District,18.632653061224488
+2022,880,880895710,San Juan District,Whitehorse High,District,18.575757575757574
+2022,880,880896712,San Juan District,Navajo Mountain High,District,8.142857142857142
+2022,900,900908310,Sevier District,North Sevier Middle,District,23.77777777777778
+2022,900,900909320,Sevier District,South Sevier Middle,District,24.14814814814815
+2022,900,900910330,Sevier District,Red Hills Middle,District,27.475409836065573
+2022,900,900912704,Sevier District,North Sevier High,District,23.25925925925926
+2022,900,900913708,Sevier District,Richfield High,District,24.291666666666668
+2022,900,900914712,Sevier District,South Sevier High,District,22.558139534883722
+2022,921,921927304,South Sanpete District,Ephraim Middle,District,25.23076923076923
+2022,921,921928704,South Sanpete District,Gunnison Valley High,District,19.47222222222222
+2022,921,921929708,South Sanpete District,Manti High,District,22.950819672131146
+2022,921,9215476302,South Sanpete District,Gunnison Valley Middle,District,19.52
+2022,930,930935304,South Summit District,South Summit Middle,District,24.176470588235293
+2022,930,930937704,South Summit District,South Summit High,District,22.425531914893618
+2022,930,930186522705,South Summit District,Silver Summit Academy,District,12.521739130434783
+2022,940,940943708,Tintic District,West Desert High School,District,5.2
+2022,940,940945704,Tintic District,Tintic High,District,25.428571428571427
+2022,947,947960308,Tooele District,Grantsville Jr High,District,25.94736842105263
+2022,947,947962404,Tooele District,Tooele Jr High,District,26.068181818181817
+2022,947,947964708,Tooele District,Grantsville High,District,30.897058823529413
+2022,947,947965712,Tooele District,Tooele High,District,26.509933774834437
+2022,947,947966714,Tooele District,Wendover High,District,14.696969696969697
+2022,947,947185679408,Tooele District,Clarke N. Johnsen Jr High,District,29.919540229885058
+2022,947,947185832720,Tooele District,Stansbury High,District,28.937888198757765
+2022,947,947186456600,Tooele District,Dugway,District,6.6
+2022,972,972983310,Uintah District,Vernal Middle,District,25.966101694915253
+2022,972,972985408,Uintah District,Uintah Middle School,District,28.15686274509804
+2022,972,972988704,Uintah District,Uintah High,District,28.651162790697676
+2022,992,9921000704,Wasatch District,Wasatch High,District,34.11666666666667
+2022,992,992186129310,Wasatch District,Rocky Mountain Middle,District,30.102040816326532
+2022,992,992186520314,Wasatch District,Timpanogos Middle School,District,28.3
+2022,1002,10021023404,Washington District,Dixie Middle,District,29.235294117647058
+2022,1002,10021024408,Washington District,Hurricane Middle,District,31.57894736842105
+2022,1002,10021025716,Washington District,Hurricane High,District,27.073529411764707
+2022,1002,10021027420,Washington District,Pine View Middle,District,28.734939759036145
+2022,1002,10021028425,Washington District,Snow Canyon Middle,District,29.86813186813187
+2022,1002,10021032704,Washington District,Dixie High,District,26.21917808219178
+2022,1002,10021033712,Washington District,Enterprise High,District,23.901639344262296
+2022,1002,10021036720,Washington District,Pine View High,District,27.696969696969695
+2022,1002,10021037725,Washington District,Snow Canyon High,District,27.73913043478261
+2022,1002,100240544325,Washington District,Lava Ridge Intermediate,District,28.11111111111111
+2022,1002,1002130588320,Washington District,Fossil Ridge Intermediate,District,22.956521739130434
+2022,1002,1002185818308,Washington District,Hurricane Intermediate,District,29.31578947368421
+2022,1002,1002185853403,Washington District,Desert Hills Middle,District,30.096385542168676
+2022,1002,1002185854304,Washington District,Tonaquint Intermediate,District,27.0
+2022,1002,1002186047703,Washington District,Desert Hills High,District,28.38095238095238
+2022,1002,1002186048303,Washington District,Sunrise Ridge Intermediate,District,27.558139534883722
+2022,1002,1002186488518,Washington District,Water Canyon High,District,22.620689655172413
+2022,1002,1002186545405,Washington District,Crimson Cliffs Middle,District,28.24576271186441
+2022,1002,1002186591302,Washington District,Washington Fields Intermediate,District,29.488888888888887
+2022,1002,1002186592705,Washington District,Crimson Cliffs High,District,27.445945945945947
+2022,1042,10421046302,Wayne District,Wayne Middle,District,19.333333333333332
+2022,1042,10421047704,Wayne District,Wayne High,District,15.222222222222221
+2022,1050,10501083402,Weber District,North Ogden Jr High,District,27.383838383838384
+2022,1050,10501084403,Weber District,Rocky Mountain Jr High,District,29.277310924369747
+2022,1050,10501085404,Weber District,Roy Jr High,District,27.66
+2022,1050,10501086406,Weber District,Sand Ridge Jr High,District,26.43617021276596
+2022,1050,10501087408,Weber District,South Ogden Jr High,District,25.24742268041237
+2022,1050,10501088410,Weber District,T.H. Bell Jr High,District,26.66176470588235
+2022,1050,10501089412,Weber District,Snowcrest Jr High,District,22.833333333333332
+2022,1050,10501090416,Weber District,Wahlquist Jr High,District,26.8503937007874
+2022,1050,10501093701,Weber District,Bonneville High,District,25.564705882352943
+2022,1050,10501094704,Weber District,Weber High,District,23.884057971014492
+2022,1050,10501095706,Weber District,Fremont High,District,27.85
+2022,1050,10501096708,Weber District,Roy High,District,27.176470588235293
+2022,1050,105070596405,Weber District,Orion Jr High,District,26.98611111111111
+2022,1107,11071132224,Salt Lake District,Nibley Park School,District,18.666666666666668
+2022,1107,11071143404,Salt Lake District,Salt Lake Center for Science Education Bryant,District,23.42105263157895
+2022,1107,11071144408,Salt Lake District,Clayton Middle,District,27.373626373626372
+2022,1107,11071145412,Salt Lake District,Glendale Middle,District,24.12121212121212
+2022,1107,11071146416,Salt Lake District,Hillside Middle,District,24.765625
+2022,1107,11071147440,Salt Lake District,Northwest Middle,District,24.0126582278481
+2022,1107,11071154704,Salt Lake District,East High,District,29.046728971962615
+2022,1107,11071155708,Salt Lake District,Highland High,District,29.6046511627907
+2022,1107,11071157716,Salt Lake District,West High,District,27.451977401129945
+2022,1107,1107186280748,Salt Lake District,Innovations High School,District,30.53846153846154
+2022,1183,11831204409,Ogden City District,Highland Junior High,District,30.30263157894737
+2022,1183,11831205411,Ogden City District,Mound Fort Junior High,District,26.232876712328768
+2022,1183,11831206415,Ogden City District,Mount Ogden Junior High,District,28.294736842105262
+2022,1183,11831208703,Ogden City District,Ben Lomond High,District,26.8
+2022,1183,11831209707,Ogden City District,Ogden High,District,28.13888888888889
+2022,1222,12221233124,Provo District,Sunset View School,District,23.0
+2022,1222,12221237404,Provo District,Centennial Middle,District,28.529411764705884
+2022,1222,12221238408,Provo District,Dixon Middle,District,21.8503937007874
+2022,1222,12221248704,Provo District,Provo High,District,31.341666666666665
+2022,1222,12221249712,Provo District,Timpview High,District,30.52980132450331
+2022,1222,1222180612103,Provo District,Provo Peaks School,District,25.0
+2022,1261,12611271404,Logan City District,Mount Logan Middle,District,26.954545454545453
+2022,1261,12611272704,Logan City District,Logan High,District,27.68141592920354
+2022,1275,12751286404,Murray District,Hillcrest Jr High,District,27.729411764705883
+2022,1275,12751288412,Murray District,Riverview Jr High,District,24.73394495412844
+2022,1275,12751289704,Murray District,Murray High,District,30.59036144578313
+2022,5492,54925492100,Pinnacle Canyon Academy,Pinnacle Canyon Academy,Charter,22.217391304347824
+2022,5495,54955495100,Soldier Hollow Charter School,Soldier Hollow Charter School,Charter,14.333333333333334
+2022,5496,54965496700,Utah Arts Academy,Utah Arts Academy,Charter,18.896551724137932
+2022,10527,1052710527700,City Academy,City Academy,Charter,12.95
+2022,35538,3553835538100,Thomas Edison,Thomas Edison - North,Charter,23.133333333333333
+2022,35538,35538186031110,Thomas Edison,Thomas Edison - South,Charter,23.65
+2022,110569,110569110569300,Salt Lake Arts Academy,Salt Lake Arts Academy,Charter,21.36842105263158
+2022,110571,110571110571100,Ogden Preparatory Academy,Ogden Preparatory Academy,Charter,20.804347826086957
+2022,110573,110573186243110,American Preparatory Academy,American Preparatory Academy - Accelerated School,Charter,22.57281553398058
+2022,110573,110573186376700,American Preparatory Academy,American Preparatory Academy - Draper #3,Charter,23.268817204301076
+2022,110573,110573186480140,American Preparatory Academy,American Preparatory Academy - Salem,Charter,13.424242424242424
+2022,110574,110574110574100,Freedom Preparatory Academy,Freedom Preparatory Academy,Charter,22.134146341463413
+2022,110575,110575110575700,Academy for Math Engineering & Science,Academy for Math Engineering & Science,Charter,19.403846153846153
+2022,125576,125576125576700,No. UT. Acad. for Math Engineering & Science,No. UT. Acad. for Math Engineering & Science,Charter,19.46551724137931
+2022,125576,125576186503705,No. UT. Acad. for Math Engineering & Science,No. UT. Acad. of Math Engineering & Science Ogden,Charter,19.256410256410255
+2022,125578,125578125578700,Davinci Academy,Davinci Academy,Charter,22.434782608695652
+2022,125579,125579125579100,Summit Academy,Summit Academy - Draper Campus,Charter,16.208333333333332
+2022,125579,125579186371300,Summit Academy,Summit Academy - Independence,Charter,19.862068965517242
+2022,125580,125580125580700,Itineris Early College High,Itineris Early College High,Charter,24.04
+2022,125581,125581125581100,North Davis Preparatory Academy,North Davis Preparatory Academy,Charter,20.24390243902439
+2022,125582,125582125582300,Walden School of Liberal Arts,Walden School of Liberal Arts,Charter,17.041666666666668
+2022,135601,135601135601700,East Hollywood High,East Hollywood High,Charter,25.22222222222222
+2022,160607,160607160607700,Utah County Academy of Science,Utah County Academy of Science,Charter,21.6046511627907
+2022,165608,165608165608700,Success Academy,Success SUU,Charter,22.25
+2022,165608,165608186389710,Success Academy,Success DSU,Charter,3.263157894736842
+2022,165609,165609165609100,Lincoln Academy,Lincoln Academy,Charter,21.959183673469386
+2022,165610,165610165610700,Beehive Science & Technology Academy,Beehive Science & Technology Academy,Charter,23.653846153846153
+2022,165612,165612165612100,North Star Academy,North Star Academy,Charter,20.933333333333334
+2022,165614,165614165614100,Reagan Academy,Reagan Academy,Charter,16.88888888888889
+2022,165615,165615165615100,American Leadership Academy,American Leadership Academy,Charter,16.84732824427481
+2022,170609,170609170609100,Navigator Pointe Academy,Navigator Pointe Academy,Charter,10.352941176470589
+2022,185688,185688185688100,Mountainville Academy,Mountainville Academy,Charter,16.27777777777778
+2022,185690,185690185690100,Entheos Academy,Entheos Academy Kearns,Charter,31.666666666666668
+2022,185690,185690186288110,Entheos Academy,Entheos Academy Magna,Charter,25.25
+2022,185692,185692185692700,Paradigm High School,Paradigm High School,Charter,18.1875
+2022,185694,185694185694100,Legacy Preparatory Academy,Legacy Preparatory Academy,Charter,16.573333333333334
+2022,185698,185698185698100,Spectrum Academy,Spectrum Academy - NSL,Charter,14.28
+2022,185698,185698186365300,Spectrum Academy,Spectrum Academy - Pleasant Grove,Charter,11.382978723404255
+2022,185700,185700185700100,Renaissance Academy,Renaissance Academy,Charter,17.5
+2022,185702,185702185702100,Lakeview Academy,Lakeview Academy,Charter,22.28205128205128
+2022,185793,185793185793100,Syracuse Arts Academy,Syracuse Arts Academy - Antelope,Charter,25.372549019607842
+2022,185798,185798185798100,Monticello Academy,Monticello Academy,Charter,34.333333333333336
+2022,185800,185800185800100,George Washington Academy,George Washington Academy,Charter,25.583333333333332
+2022,185802,185802185802100,Channing Hall,Channing Hall,Charter,13.5
+2022,185804,185804185804600,Intech Collegiate Academy,Intech Collegiate Academy,Charter,24.941176470588236
+2022,185835,185835185835700,Karl G. Maeser Preparatory Academy,Karl G. Maeser Preparatory Academy,Charter,21.65714285714286
+2022,185843,185843185843100,Dual Immersion Academy,Dual Immersion Academy,Charter,21.25
+2022,185847,185847185847240,Open Classroom,Open Classroom,Charter,60.0
+2022,185866,185866185866100,Gateway Preparatory Academy,Gateway Preparatory Academy,Charter,15.375
+2022,185868,185868185868300,Salt Lake Center for Science Education,Salt Lake Center for Science Education,Charter,27.970588235294116
+2022,185870,185870185870700,Merit College Preparatory Academy,Merit College Preparatory Academy,Charter,21.681818181818183
+2022,185871,185871185871100,Providence Hall,Providence Hall,Charter,21.176470588235293
+2022,185872,185872185872100,Quest Academy,Quest Academy,Charter,21.05263157894737
+2022,185873,185873185873700,Rockwell Charter High School,Rockwell Charter High School,Charter,14.972222222222221
+2022,185874,185874185874100,Venture Academy,Venture Academy,Charter,19.55952380952381
+2022,186056,186056712401,Canyons District,Albion Middle,District,30.966666666666665
+2022,186056,186056713402,Canyons District,Butler Middle,District,28.327868852459016
+2022,186056,186056714403,Canyons District,Eastmont Middle,District,28.976190476190474
+2022,186056,186056715404,Canyons District,Midvale Middle,District,29.616666666666667
+2022,186056,186056716405,Canyons District,Indian Hills Middle,District,29.561643835616437
+2022,186056,186056718407,Canyons District,Draper Park Middle,District,29.141509433962263
+2022,186056,186056719408,Canyons District,Mt. Jordan Middle,District,26.03174603174603
+2022,186056,186056721410,Canyons District,Union Middle,District,28.75438596491228
+2022,186056,186056733702,Canyons District,Alta High,District,32.136054421768705
+2022,186056,186056736705,Canyons District,Brighton High,District,29.932038834951456
+2022,186056,186056737706,Canyons District,Hillcrest High,District,32.0
+2022,186056,186056738708,Canyons District,Jordan High,District,31.15748031496063
+2022,186056,186056186152950,Canyons District,Entrada,District,15.0
+2022,186056,186056186286711,Canyons District,Corner Canyon High,District,30.830188679245282
+2022,186110,186110186110300,Early Light Academy at Daybreak,Early Light Academy at Daybreak,Charter,21.37142857142857
+2022,186111,186111186111100,Excelsior Academy,Excelsior Academy,Charter,23.878048780487806
+2022,186112,186112186112100,Hawthorn Academy,Hawthorn Academy West Jordan,Charter,20.324324324324323
+2022,186115,186115186115100,Vista School,Vista School,Charter,25.026315789473685
+2022,186154,186154186154100,Maria Montessori Academy,Maria Montessori Academy,Charter,19.0
+2022,186157,186157186157100,Weilenmann School of Discovery,Weilenmann School of Discovery,Charter,21.866666666666667
+2022,186170,186170186170700,Summit Academy High School,Summit Academy High School,Charter,24.38
+2022,186275,186275186275100,Highmark Charter School,Highmark Charter School,Charter,20.325
+2022,186276,186276186276100,Pacific Heritage Academy,Pacific Heritage Academy,Charter,19.75
+2022,186278,186278186278100,Promontory School of Expeditionary Learning,Promontory School of Expeditionary Learning,Charter,23.5
+2022,186279,186279186279100,Valley Academy,Valley Academy,Charter,22.0
+2022,186295,186295186297700,Utah International Charter School,Utah International Charter School,Charter,11.076923076923077
+2022,186302,186302186303700,Mana Academy Charter School,Mana Academy Charter School,Charter,20.583333333333332
+2022,186311,186311186313700,Winter Sports School,Winter Sports School,Charter,24.272727272727273
+2022,186342,186342186343600,Utah Career Path High School,Utah Career Path High School,Charter,32.65
+2022,186346,186346186347100,Mountain View Montessori,Mountain View Montessori,Charter,16.0
+2022,186351,186351186352300,Ascent Academies of Utah,Ascent Academies of Utah Farmington,Charter,14.5
+2022,186351,186351186366310,Ascent Academies of Utah,Ascent Academies of Utah West Jordan,Charter,25.666666666666668
+2022,186351,186351186414320,Ascent Academies of Utah,Ascent Academies of Utah Lehi,Charter,16.65
+2022,186353,186353186354100,Scholar Academy,Scholar Academy,Charter,21.555555555555557
+2022,186355,186355186356300,Mountain West Montessori Academy,Mountain West Montessori Academy,Charter,16.0
+2022,186369,186369186370700,Utah Military Academy,Utah Military Academy,Charter,22.6
+2022,186369,186369186446710,Utah Military Academy,Utah Military Academy - Camp Williams,Charter,19.071428571428573
+2022,186372,186372186373300,Terra Academy,Terra Academy,Charter,17.849056603773583
+2022,186374,186374186375700,Roots Charter High School,Roots Charter High School,Charter,17.5
+2022,186380,186380186381700,Vanguard Academy,Vanguard Academy,Charter,17.17910447761194
+2022,186390,186390186391100,Greenwood Charter School,Greenwood Charter School,Charter,15.75
+2022,186423,186423186424300,Wallace Stegner Academy,Wallace Stegner Academy,Charter,23.666666666666668
+2022,186423,186423186624305,Wallace Stegner Academy,Wallace Stegner Academy West Valley,Charter,22.0
+2022,186429,186429186430700,American Academy of Innovation,American Academy of Innovation,Charter,16.879310344827587
+2022,186431,186431186432700,St. George Academy,St. George Academy,Charter,21.727272727272727
+2022,186444,186444186445300,Athlos Academy of Utah,Athlos Academy of Utah,Charter,9.133333333333333
+2022,186474,186474186475300,Bonneville Academy,Bonneville Academy,Charter,16.285714285714285
+2022,186490,186490186491700,Real Salt Lake Academy High School,Real Salt Lake Academy High School,Charter,20.020833333333332
